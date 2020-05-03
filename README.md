@@ -1,2 +1,2 @@
 # Leetcode_Problems
-For general problems solved on leetcode
+## For general problems solved on www.leetcode.com
